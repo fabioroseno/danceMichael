@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 54246cc5690eb804682be73e93c94d7e
+timeCreated: 1441673064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: michael_jackson_pxlr_0
+    21300002: michael_jackson_pxlr_1
+    21300004: michael_jackson_pxlr_2
+    21300006: michael_jackson_pxlr_3
+    21300008: michael_jackson_pxlr_4
+    21300010: michael_jackson_pxlr_5
+    21300012: michael_jackson_pxlr_6
+    21300014: michael_jackson_pxlr_7
+    21300016: michael_jackson_pxlr_8
+    21300018: michael_jackson_pxlr_9
+    21300020: michael_jackson_pxlr_10
+    21300022: michael_jackson_pxlr_11
+    21300024: michael_jackson_pxlr_12
+    21300026: michael_jackson_pxlr_13
+    21300028: michael_jackson_pxlr_14
+    21300030: michael_jackson_pxlr_15
+    21300032: michael_jackson_pxlr_16
+    21300034: michael_jackson_pxlr_17
+    21300036: michael_jackson_pxlr_18
+    21300038: michael_jackson_pxlr_19
+    21300040: michael_jackson_pxlr_20
+    21300042: michael_jackson_pxlr_21
+    21300044: michael_jackson_pxlr_22
+    21300046: michael_jackson_pxlr_23
+    21300048: michael_jackson_pxlr_24
+    21300050: michael_jackson_pxlr_25
+    21300052: michael_jackson_pxlr_26
+    21300054: michael_jackson_pxlr_27
+    21300056: michael_jackson_pxlr_28
+    21300058: michael_jackson_pxlr_29
+    21300060: michael_jackson_pxlr_30
+    21300062: michael_jackson_pxlr_31
+    21300064: michael_jackson_pxlr_32
+    21300066: michael_jackson_pxlr_33
+    21300068: michael_jackson_pxlr_34
+    21300070: michael_jackson_pxlr_35
+    21300072: michael_jackson_pxlr_36
+    21300074: michael_jackson_pxlr_37
+    21300076: michael_jackson_pxlr_38
+    21300078: michael_jackson_pxlr_39
+    21300080: michael_jackson_pxlr_40
+    21300082: michael_jackson_pxlr_41
+    21300084: michael_jackson_pxlr_42
+    21300086: michael_jackson_pxlr_43
+    21300088: michael_jackson_pxlr_44
+    21300090: michael_jackson_pxlr_45
+    21300092: michael_jackson_pxlr_46
+    21300094: michael_jackson_pxlr_47
+    21300096: michael_jackson_pxlr_48
+    21300098: michael_jackson_pxlr_49
+    21300100: michael_jackson_pxlr_50
+    21300102: michael_jackson_pxlr_51
+    21300104: michael_jackson_pxlr_52
+    21300106: michael_jackson_pxlr_53
+    21300108: michael_jackson_pxlr_54
+    21300110: michael_jackson_pxlr_55
+    21300112: michael_jackson_pxlr_56
+    21300114: michael_jackson_pxlr_57
+    21300116: michael_jackson_pxlr_58
+    21300118: michael_jackson_pxlr_59
+    21300120: michael_jackson_pxlr_60
+    21300122: michael_jackson_pxlr_61
+    21300124: michael_jackson_pxlr_62
+    21300126: michael_jackson_pxlr_63
+    21300128: michael_jackson_pxlr_64
+    21300130: michael_jackson_pxlr_65
+    21300132: michael_jackson_pxlr_66
+    21300134: michael_jackson_pxlr_67
+    21300136: michael_jackson_pxlr_68
+    21300138: michael_jackson_pxlr_69
+    21300140: michael_jackson_pxlr_70
+    21300142: michael_jackson_pxlr_71
+    21300144: michael_jackson_pxlr_72
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: michael_jackson_pxlr_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1850
+        width: 85
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1848
+        width: 86
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1849
+        width: 86
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1854
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1854
+        width: 84
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1852
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_6
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1854
+        width: 85
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1856
+        width: 62
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1853
+        width: 62
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1635
+        width: 61
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1634
+        width: 62
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1633
+        width: 62
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1632
+        width: 61
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1634
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_14
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1634
+        width: 63
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_15
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1631
+        width: 61
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1627
+        width: 60
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1628
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_18
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1627
+        width: 63
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_19
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1630
+        width: 70
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1424
+        width: 66
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1419
+        width: 66
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1416
+        width: 76
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1410
+        width: 65
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1413
+        width: 75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1409
+        width: 86
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1406
+        width: 87
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1405
+        width: 86
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1402
+        width: 87
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1403
+        width: 83
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1198
+        width: 75
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1205
+        width: 69
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1200
+        width: 51
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1202
+        width: 49
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1201
+        width: 46
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1194
+        width: 43
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1191
+        width: 43
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1191
+        width: 44
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_38
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1190
+        width: 44
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_39
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1190
+        width: 45
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1189
+        width: 48
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_41
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1187
+        width: 53
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_42
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1184
+        width: 52
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1182
+        width: 51
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 992
+        width: 48
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 993
+        width: 57
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 992
+        width: 50
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 988
+        width: 53
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 984
+        width: 122
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_49
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 987
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 981
+        width: 129
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 980
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 788
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 779
+        width: 84
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 779
+        width: 70
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 779
+        width: 65
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_56
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 775
+        width: 63
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_57
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 771
+        width: 62
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 770
+        width: 64
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_59
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 767
+        width: 65
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_60
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 765
+        width: 64
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 576
+        width: 64
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 575
+        width: 65
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 576
+        width: 65
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_64
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 574
+        width: 62
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_65
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 573
+        width: 65
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_66
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 573
+        width: 64
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_67
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 572
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_68
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 572
+        width: 70
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_69
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 572
+        width: 65
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_70
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 565
+        width: 57
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 347
+        width: 223
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: michael_jackson_pxlr_72
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 396
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
