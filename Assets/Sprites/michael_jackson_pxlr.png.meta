@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 54246cc5690eb804682be73e93c94d7e
-timeCreated: 1441673064
+timeCreated: 1442019352
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -102,7 +102,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -425,8 +425,8 @@ TextureImporter:
     - name: michael_jackson_pxlr_30
       rect:
         serializedVersion: 2
-        x: 96
-        y: 1198
+        x: 86
+        y: 1200
         width: 75
         height: 157
       alignment: 0
